@@ -80,7 +80,7 @@ If you find it useful, please consider citing:
 ```
 @article{wang2025semi,
   title={Semi-supervised Semantic Segmentation for Remote Sensing Images via Multi-scale Uncertainty Consistency and Cross-Teacher-Student Attention},
-  author={Wang, Shanwen and Chen, Changrui and Sun, Xin and Hong, Danfeng and Han, Jungong},
+  author={Wang, Shanwen and Sun, Xin and Chen, Changrui and Hong, Danfeng and Han, Jungong},
   journal={arXiv preprint arXiv:2501.10736},
   year={2025}
 }
