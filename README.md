@@ -78,12 +78,15 @@ python3 evaluate.py
 ### Citation
 If you find it useful, please consider citing:
 ```
-@article{wang2025semi,
-  title={Semi-supervised semantic segmentation for remote sensing images via multi-scale uncertainty consistency and cross-teacher-student attention},
+@ARTICLE{11062866,
   author={Wang, Shanwen and Sun, Xin and Chen, Changrui and Hong, Danfeng and Han, Jungong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Semi-Supervised Semantic Segmentation for Remote Sensing Images via Multiscale Uncertainty Consistency and Cross-Teacher–Student Attention}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={63},
+  number={},
+  pages={1-15},
+  keywords={Semantic segmentation;Perturbation methods;Uncertainty;Training;Feature extraction;Computational modeling;Supervised learning;Buildings;Transformers;Semantics;Consistency regularization;deep learning;remote sensing (RS) images;semi-supervised semantic segmentation},
+  doi={10.1109/TGRS.2025.3585489}}
 ```
 
